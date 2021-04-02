@@ -1,0 +1,23 @@
+{
+  "name": "driver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "driver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nassir1976/driver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nassir1976/driver/issues"
+  },
+  "homepage": "https://github.com/nassir1976/driver#readme",
+  "dependencies": {
+    "socket.io-client": "^2.4.0"
+  }
+}
